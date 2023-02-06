@@ -7,7 +7,7 @@
 I am a digital mason building the digital sphere brick by brick and taking it one step at a time to make life better with technology. A student in the course Computer Science in the Philippines, creating projects from ideas of my colorful imagination, planning and designing to solving problems up to the last line of my code up on the shoulders of the giants.
 
 ## 🗣 Languages
-![alt text](https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/1200px-C_Programming_Language.svg.png?raw=true)
+<img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/1200px-C_Programming_Language.svg.png?raw=true" alt="C" width="200"/>
 
 ## Socials 
 
