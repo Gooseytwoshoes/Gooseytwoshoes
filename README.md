@@ -9,7 +9,7 @@
   </a>
 </p>
   
-I am a digital mason building the digital sphere brick by brick and taking it one step at a time to make life better with technology. A student in the course Computer Science in the Philippines, creating projects from ideas of my colorful imagination, planning and designing to solving problems up to the last line of my code up on the shoulders of the giants. The reason why I code will not be about the code I make but the solution I'll give.
+I am a digital mason building the digital sphere brick by brick and taking calculations and putting one step at a time to make life better with technology. A Computer Science student in the Philippines, creating projects from ideas of my colorful imagination, planning and designing to solve problems up to the last line up on the shoulders of the giants. The reason why I code is not about the code I make but the solution it gives.
 
 
 ## 🗣 Languages
