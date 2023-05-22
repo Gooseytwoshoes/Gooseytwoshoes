@@ -40,3 +40,11 @@ I am a digital mason building the digital sphere brick by brick and taking calcu
   <a href = "https://twitter.com/goosey_two" title = "Twitter">
     <img src = "https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/twitter-png-logo-logo-twitter-in-png-2500.png" alt = "Twitter" style = "width: 50px;"/>
 </p>
+
+  
+## 🛣️ Roadmap
+  So far I am expecting myself to reach these goals this year:
+  
+  - Finishing CreditWise
+  - Making a working prototype for Stauch Chariot with Kotlin and Java
+  - Finish the storyline for an upcoming game I want to develop and give for free on steam and on android
