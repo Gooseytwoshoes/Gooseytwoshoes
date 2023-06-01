@@ -5,7 +5,7 @@
 ## ✏ About me
 <p align = "center">
   <a href = "https://fauux.neocities.org/" title = "ḽ̴̾e̴̙͋͋t̶̛͓̩͝'̶̞͖̉s̸͎͍̍̀ ̶̰̅̆a̵̜͋̉l̵̼͕̀͠l̴̙̮͒ ̴̲̾l̷̫̠͝ỏ̴̰̐v̴̥̪̐ȅ̵͙̟ ̸͓̉̌L̴̨̒å̸̜̞i̴̧̳͐n̴̫̔͗">
-    <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/1473031501_lain.gif" alt="Lain" width = "450"/>
+    <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/lain.gif" alt="Lain" width = "450"/>
   </a>
 </p>
   
