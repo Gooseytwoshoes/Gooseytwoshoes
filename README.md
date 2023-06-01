@@ -5,7 +5,7 @@
 ## ✏ About me
 <p align = "center">
   <a href = "https://fauux.neocities.org/" title = "ḽ̴̾e̴̙͋͋t̶̛͓̩͝'̶̞͖̉s̸͎͍̍̀ ̶̰̅̆a̵̜͋̉l̵̼͕̀͠l̴̙̮͒ ̴̲̾l̷̫̠͝ỏ̴̰̐v̴̥̪̐ȅ̵͙̟ ̸͓̉̌L̴̨̒å̸̜̞i̴̧̳͐n̴̫̔͗">
-    <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/lain.gif" alt="Lain" width = "450"/>
+    <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/lain.gif" alt="Lain" height = "350"/>
   </a>
 </p>
   
@@ -26,7 +26,7 @@ I am a digital mason building the digital sphere brick by brick and taking calcu
 ## 💻 Socials 
 
 <p align = "center">
-  <img src = "https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/ca8015d2f8d0f33c981dbed6478b99f7.gif" width = "250"/>\
+  <img src = "https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/download.gif" width = "550"/>\
 </p>
 
 <!--
@@ -43,6 +43,11 @@ I am a digital mason building the digital sphere brick by brick and taking calcu
 
   
 ## 🛣️ Roadmap
+  
+  <p align = "center">
+  <img src = "https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/f1f7d7053d6423b5a29b8c8b7b338e3d.gif" width = "275"/>
+  </p>
+  
   So far I am expecting myself to reach these goals this year:
   
   - Finishing CreditWise
