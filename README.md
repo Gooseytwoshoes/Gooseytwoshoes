@@ -53,4 +53,4 @@ I am a digital mason building the digital sphere brick by brick and taking calcu
   
   - ~~Finishing CreditWise~~
   - Making a working prototype for Stauch Chariot with Kotlin and Java
-  - Finish the storyline for an upcoming game I want to develop and give for free on steam and on android
+  - ~~Finish the storyline for an upcoming game I want to develop and give for free on steam and on android~~
