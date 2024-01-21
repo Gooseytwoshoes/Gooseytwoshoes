@@ -20,7 +20,7 @@ I am a digital mason building the digital sphere brick by brick and taking calcu
  
  <p align = "center">
 <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/1200px-C_Programming_Language.svg.png?raw=true" alt="C" width="50"/>                            <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/ISO_C++_Logo.svg.png?raw=true" alt="C++" width="50"/>                                      <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/Python-logo-notext.svg.png?raw=true" alt="Python" width="50"/>                                <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/HTML5_logo.svg.png?raw=true" alt="HTML" width="50"/>                                        <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/CSS3_logo.svg.png?raw=true" alt="CSS" width="50"/>                                     <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/58480979cef1014c0b5e4901.png" alt="JAVA" width="50"/>
-<img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/JavaScript-logo.png" alt="Javascript" width="50"/> 
+<img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/JavaScript-logo.png" alt="Javascript" width="50"/> <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/Visual-Studio-logo-500x281.png" alt="VisualStudio" width="90"/> 
 </p>
 
 
