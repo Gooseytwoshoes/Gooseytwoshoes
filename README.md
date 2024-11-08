@@ -50,8 +50,8 @@ I am a digital mason building the digital sphere brick by brick and taking calcu
   <img src = "https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/f1f7d7053d6423b5a29b8c8b7b338e3d.gif" width = "275"/>
   </p>
   
-  So far I am expecting myself to reach these goals this year:
+  So far I am expecting myself to reach these goals ~~this year~~ before I graduate:
   
   - ~~Finishing CreditWise~~
-  - Making a working prototype for Stauch Chariot with Kotlin and Java
+  - Making a working prototype for Stauch Chariot, an application for managing money
   - ~~Finish the storyline for an upcoming game I want to develop and give for free on steam and on android~~
